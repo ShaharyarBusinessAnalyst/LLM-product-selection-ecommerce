@@ -1,0 +1,332 @@
+price,ordered,gender,material,product_type,sleeve_or_neck,size,fit,fabric_finish,pattern,details,primary_color,secondary_color,is_multicolor,formality_level,color_brightness,pattern_complexity,perceived_quality,trend_alignment,visual_uniqueness,estimated_purchase_appeal,style_category,seasonality
+35.44,1,Men,Cotton,Shirt,Long Sleeve,4XL,Standard,,Solid,,Light Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.7,1,unknown,Flannel,Shirt,unknown,L,Standard,,Checked,,White,Red,True,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Casual,Winter
+34.44,0,Men,Linen,Shirt,Long Sleeve,5XL,Standard,,Solid,,Khaki,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,Summer
+45.1,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,Textured,Solid,,Dark Red,,False,2.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+59.75,0,Men,Cotton,Shirt,unknown,L,Standard,Washed,Solid,Pocket,Dark Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+55.99,0,Men,unknown,Shirt,unknown,L,Standard,Washed,Solid,,Pink,,False,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Vintage,All-Season
+42.26,0,unknown,Cotton,Shirt,unknown,M,Standard,,Floral/Graphic,,Black,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+58.08,0,Men,Cotton,Shirt,unknown,2XL,Standard,Washed,Solid,Pocket,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+62.52,0,Men,unknown,Shirt,unknown,S,Standard,Washed,Solid,,Sky Blue,,False,3.0,4.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+45.23,0,unknown,unknown,Shirt,unknown,M,Standard,Soft/Luxurious,Solid,,Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+30.68,1,Men,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,,Khaki,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+28.76,1,Men,Cotton,Shirt,unknown,5XL,Standard,,Solid,Collar,Yellow,,False,3.0,4.0,1.0,4.0,4.0,3.0,4.0,Vintage,All-Season
+54.97,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+45.46,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+52.39,0,unknown,unknown,Shirt & Shorts Set,unknown,XL,Loose,,Solid,,Clear Blue,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+52.36,1,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Purple,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+58.27,1,Men,unknown,Shirt,unknown,L,Standard,Washed,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+45.66,1,unknown,unknown,Polo & Shorts Set,unknown,M,Standard,Stretch,Solid,,Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+54.04,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,Henley,Coffee,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,Summer
+36.09,0,Men,Linen,Shirt,unknown,M,Standard,,Solid,,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+33.26,0,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,Button-Down,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+61.87,1,Men,Cotton,Shirt,unknown,L,Standard,Washed,Solid,Pocket,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.45,1,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+29.46,0,unknown,Flannel,Shirt,Long Sleeve,L,Standard,,Solid,,Army Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Winter
+35.21,1,Men,Linen,Shirt,Long Sleeve,5XL,Standard,,Solid,,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+63.24,1,unknown,unknown,Shirt,unknown,XL,Muscle,,Solid,,Burgundy,,False,3.0,2.0,1.0,3.0,3.0,2.0,3.0,Casual,All-Season
+29.3,1,unknown,Flannel,Shirt,Long Sleeve,L,Standard,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Winter
+50.7,1,unknown,unknown,Shirt & Shorts Set,unknown,XXL,Loose,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+34.54,0,unknown,Linen,Shirt,unknown,L,Standard,,Solid,,Dark Grey,,False,3.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+27.87,1,unknown,unknown,Polo,Short Sleeve,M,Standard,,Solid,Collar,Red,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,Summer
+54.95,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Dark Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+45.2,1,unknown,unknown,Shirt & Shorts Set,unknown,M,Standard,Textured,Solid,,Red,,False,2.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+34.01,1,Men,Silk,Shirt,unknown,4XL,Standard,Breathable/Thin,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.79,0,unknown,Flannel,Shirt,Long Sleeve,L,Standard,,Solid,,Wine Red,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,Winter
+47.21,0,unknown,unknown,T-Shirt & Shorts Set,unknown,XXXL,Standard,Breathable/Thin,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+52.66,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Pink,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+67.79,1,unknown,unknown,Shirt,unknown,M,Muscle,,Solid,,White,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+41.68,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+51.41,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,,Blue,,False,2.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,Summer
+32.7,0,unknown,Cotton,T-Shirt & Shorts Set,unknown,4XL,Loose,,Solid,,Light Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+29.97,0,Men,unknown,Shirt,Short Sleeve,M,Standard,,Checked,,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Formal,Summer
+33.07,0,Men,Linen,Shirt,Short Sleeve,M,Standard,,Solid,Button-Down,Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+32.27,0,unknown,unknown,Shirt,unknown,L,Standard,Stretch,Solid,,Blue,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+34.06,1,Men,Linen,Shirt,Long Sleeve,5XL,Standard,,Solid,,Green,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+49.64,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,Textured,Solid,,Beige,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+67.12,0,unknown,unknown,Shirt,unknown,M,Muscle,,Solid,,Navy Blue,,False,3.0,2.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+57.03,0,unknown,Cotton,Shirt & Shorts Set,unknown,XXL,Standard,,Solid,,Navy Blue,,False,3.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+48.9,0,unknown,Cotton,Shirt & Shorts Set,unknown,S,Standard,,Solid,,Sky Blue,,False,3.0,4.0,1.0,4.0,4.0,2.0,4.0,Casual,All-Season
+37.47,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Coffee,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+53.29,0,unknown,Cotton,Shirt & Shorts Set,unknown,XL,Standard,,Solid,,Navy Blue,,False,3.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+81.5,0,unknown,unknown,Shirt,unknown,M,Muscle,,Solid,,White,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+30.54,0,Men,unknown,Shirt,Short Sleeve,L,Standard,,Solid,Pocket,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+20.47,0,Men,unknown,T-Shirt,V-Neck,3XL,Standard,,Solid,V-Neck,Blue,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+29.73,0,Men,Cotton,Shirt,Long Sleeve,5XL,Standard,,Solid,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+51.26,0,unknown,unknown,Shirt & Shorts Set,unknown,XL,Loose,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+70.41,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,Textured,Solid,,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.16,0,unknown,Cotton,Shirt,unknown,L,Standard,,Striped,,Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+28.64,1,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,unknown,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+38.68,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Light Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+40.13,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,unknown,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+40.76,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Light Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+35.72,0,Men,Silk,Shirt,unknown,5XL,Standard,Breathable/Thin,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+66.74,1,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,White,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+28.39,1,Men,Cotton,T-Shirt,unknown,5XL,Standard,"Washed, Distressed",Solid,,Khaki,,False,3.0,4.0,1.0,4.0,4.0,2.0,4.0,Casual,All-Season
+38.81,1,Men,Linen,Shirt,unknown,M,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+31.25,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,White,,False,4.0,5.0,1.0,3.0,3.0,2.0,3.0,Vintage,All-Season
+42.74,0,unknown,unknown,Shirt & Shorts Set,unknown,M,Standard,Textured,Solid,,Dark Green,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Casual,All-Season
+36.3,0,Men,Linen,Shirt,unknown,L,Standard,,Solid,,Brown,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+27.91,0,unknown,unknown,Polo,Short Sleeve,XL,Standard,,Solid,Collar,Royal Blue,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,Summer
+48.87,0,unknown,unknown,Shirt,unknown,XXXL,Standard,,Geometric,,Light Khaki,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+34.63,1,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+34.31,0,Men,Linen,Shirt,Short Sleeve,M,Standard,,Solid,Button-Down,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+29.57,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Army Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,All-Season
+28.41,0,unknown,unknown,Polo,Short Sleeve,L,Standard,,Solid,Collar,Navy Blue,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+44.9,0,unknown,Linen,Shirt & Shorts Set,Short Sleeve,L,Standard,,Solid,,Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,Summer
+46.73,0,unknown,unknown,Shirt,unknown,L,Standard,,Geometric,,Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+44.99,1,unknown,unknown,Shirt & Shorts Set,unknown,XXXL,Standard,Textured,Solid,,White,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.38,1,unknown,Linen,Shirt,unknown,M,Standard,,Solid,Henley,Cream,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+35.51,1,Men,Silk,Shirt,unknown,M,Standard,Breathable/Thin,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+45.3,0,unknown,Linen,Shirt & Shorts Set,Short Sleeve,L,Standard,,Solid,,Light Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,Summer
+68.53,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,Textured,Solid,,Navy Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+60.91,0,Men,unknown,Shirt,unknown,L,Standard,Washed,Solid,,Khaki,,False,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Vintage,All-Season
+33.88,0,Men,unknown,Shirt,unknown,M,Standard,,Solid,,Black,,False,4.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+40.1,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,Summer
+50.2,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,unknown,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+71.51,1,Men,Cotton,Shirt,unknown,M,Standard,,Solid,,Blue,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+30.59,1,Men,Cotton,T-Shirt,unknown,5XL,Standard,"Washed, Distressed",Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+62.7,0,Men,unknown,Shirt,unknown,4XL,Standard,Washed,Solid,,Sky Blue,,False,3.0,4.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+61.32,0,unknown,unknown,T-Shirt & Shorts Set,unknown,L,Standard,,Solid,,Khaki,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+50.6,1,unknown,unknown,Shirt & Shorts Set,unknown,M,Loose,,Solid,,Beige,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+44.49,1,unknown,unknown,Shirt & Shorts Set,unknown,M,Standard,Textured,Solid,,White,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+80.82,1,unknown,unknown,Shirt,unknown,M,Muscle,,Solid,,Black,,False,3.0,2.0,1.0,3.0,3.0,2.0,3.0,Casual,All-Season
+39.88,1,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,All-Season
+40.15,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Coffee,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+41.81,1,unknown,unknown,Shirt & Shorts Set,unknown,XXXL,Standard,Textured,Solid,,Red,,False,2.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+39.95,0,unknown,Cotton,Shirt,unknown,L,Standard,,Embroidered,,Khaki,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+52.97,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,,Navy Blue,,False,3.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+38.12,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Yellow,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Vintage,All-Season
+34.49,1,unknown,unknown,Shirt,unknown,L,Standard,,Striped,Henley,Apricot,,False,4.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+53.13,0,unknown,unknown,Shirt & Shorts Set,unknown,XL,Loose,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+32.79,1,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,Button-Down,Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+34.45,0,unknown,Cotton,Shirt,unknown,M,Standard,,Solid,,unknown,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+38.19,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Dark Red,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Vintage,All-Season
+32.37,1,Men,Cotton,T-Shirt,Long Sleeve,L,Standard,,Solid,Pocket,Green,,False,3.0,3.0,1.0,4.0,4.0,2.0,4.0,Vintage,All-Season
+27.19,0,unknown,unknown,Polo,Short Sleeve,XL,Standard,,Solid,Collar,Red,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,Summer
+60.09,0,Men,Corduroy,Shirt,Short Sleeve,L,Standard,,Solid,Pocket,Brown,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+60.19,0,Men,unknown,Shirt,unknown,5XL,Standard,Washed,Solid,,Khaki,,False,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Vintage,All-Season
+59.67,1,Men,unknown,Shirt,unknown,L,Standard,Washed,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+50.8,0,unknown,unknown,Shirt & Shorts Set,unknown,M,Loose,,Solid,,Black,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+27.17,0,Men,Cotton,T-Shirt,unknown,L,Standard,"Washed, Distressed",Solid,,Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+46.0,0,unknown,unknown,Shirt,unknown,L,Standard,,Geometric,,Black,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+41.48,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Yellow,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Vintage,Summer
+49.55,0,unknown,unknown,Shirt & Shorts Set,unknown,M,Loose,,Solid,,Purple,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+34.31,0,unknown,Cotton,T-Shirt & Shorts Set,unknown,M,Loose,,Solid,,Light Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+32.83,0,Men,Linen,Shirt,Short Sleeve,M,Standard,,Solid,Button-Down,Purple,,False,3.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+27.86,0,unknown,unknown,Polo,unknown,L,Standard,,Solid,Collar,Blue,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+35.36,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Red,,False,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Vintage,All-Season
+63.56,1,Men,unknown,Shirt,unknown,M,Standard,Washed,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+30.35,0,unknown,Linen,Shirt,unknown,L,Standard,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+64.08,1,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Navy Blue,,False,3.0,2.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+33.07,0,Men,unknown,Shirt,unknown,L,Standard,,Solid,,Wine Red,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Vintage,All-Season
+19.89,1,Men,unknown,T-Shirt,V-Neck,L,Standard,,Solid,V-Neck,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+45.99,0,unknown,Linen,Shirt & Shorts Set,Short Sleeve,L,Standard,,Solid,,Khaki,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,Summer
+66.38,1,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Black,,False,3.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+37.31,0,Men,unknown,Shirt,unknown,L,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+28.78,0,Men,unknown,Shirt,Short Sleeve,5XL,Standard,,Solid,Pocket,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+27.09,0,unknown,unknown,Shirt,unknown,M,Standard,,Striped,,Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+35.1,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,Henley,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+40.16,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Army Green,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+43.18,0,unknown,unknown,Shirt,unknown,L,Standard,Soft/Luxurious,Solid,,Black,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+44.4,0,unknown,unknown,Shirt,unknown,XL,Standard,Soft/Luxurious,Solid,,Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+62.29,0,Men,unknown,Shirt,unknown,2XL,Standard,Washed,Solid,,Sky Blue,,False,3.0,4.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+53.89,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,,Pink,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+42.53,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,White,,False,4.0,5.0,2.0,3.0,3.0,2.0,3.0,Casual,All-Season
+54.4,1,unknown,Cotton,Shirt & Shorts Set,unknown,M,Standard,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,All-Season
+34.85,1,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Wine Red,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Vintage,All-Season
+33.58,0,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,Button-Down,Purple,,False,3.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+28.74,1,unknown,Linen,Shirt,unknown,L,Standard,,Solid,,Dark Red,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+42.18,1,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Coffee,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+33.27,0,Men,Linen,Shirt,unknown,L,Standard,,Striped,,Yellow,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,Summer
+33.85,1,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,Button-Down,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+67.62,1,Men,Cotton,Shirt,unknown,L,Standard,,Solid,,Purple,,False,4.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+30.33,1,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,Henley,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+55.78,0,unknown,Cotton,Shirt & Shorts Set,unknown,XXL,Standard,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,All-Season
+35.54,1,Men,Silk,Shirt,unknown,L,Standard,Breathable/Thin,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+27.37,1,Men,Cotton,T-Shirt,unknown,L,Standard,"Washed, Distressed",Solid,,Beige,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+63.84,1,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Light Green,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+60.9,1,Men,Cotton,Shirt,unknown,L,Standard,Washed,Solid,Pocket,Khaki,,False,3.0,4.0,1.0,4.0,4.0,2.0,4.0,Casual,All-Season
+24.36,1,Men,Cotton,T-Shirt,unknown,S,Standard,"Stretch, Soft/Luxurious",Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+35.49,0,Men,Linen,Shirt,unknown,M,Standard,,Solid,,Orange,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+58.57,0,unknown,unknown,Shirt & Shorts Set,unknown,XXL,Standard,,Solid,,Cream,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+28.35,0,unknown,unknown,Polo,Short Sleeve,L,Standard,,Solid,Collar,Green,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,Summer
+27.32,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,Henley,Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+50.57,0,unknown,unknown,Shirt & Shorts Set,unknown,XXL,Loose,,Solid,,Blue,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Casual,All-Season
+27.07,0,Men,Cotton,T-Shirt,unknown,XL,Standard,"Washed, Distressed",Solid,,Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+32.61,0,unknown,unknown,Shirt,unknown,L,Standard,Stretch,Solid,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+41.8,1,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,unknown,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Casual,All-Season
+37.22,1,unknown,Linen,Shirt,unknown,L,Standard,,Solid,,Light Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+71.49,0,Men,Cotton,Shirt,unknown,L,Standard,,Solid,,Blue,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+58.05,0,Men,unknown,Shirt,unknown,M,Standard,Washed,Solid,,Blue,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+28.99,1,unknown,Cotton,Shirt,unknown,5XL,Standard,,Striped,,Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+42.75,0,unknown,Linen,Shirt & Shorts Set,Short Sleeve,M,Standard,,Solid,,Light Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,Summer
+40.58,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Black,Red,True,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+35.31,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,Henley,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+31.15,0,Men,unknown,Polo,unknown,4XL,Standard,,Solid,,Pink,,False,3.0,4.0,1.0,4.0,4.0,2.0,4.0,Casual,All-Season
+36.65,0,unknown,unknown,Shirt,unknown,L,Standard,Breathable/Thin,Solid,,Army Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+30.84,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,Pocket,Army Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+28.26,0,unknown,unknown,Shirt,Short Sleeve,L,Standard,,Solid,Collar,Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+66.11,1,Men,unknown,Shirt,unknown,L,Standard,Washed,Solid,,Army Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+40.64,1,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,White,,False,4.0,5.0,1.0,3.0,3.0,2.0,3.0,Casual,All-Season
+66.06,0,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Burgundy,,False,3.0,2.0,1.0,3.0,3.0,2.0,3.0,Casual,All-Season
+44.8,0,unknown,Linen,Shirt & Shorts Set,Short Sleeve,L,Standard,,Solid,,Wine Red,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,Summer
+64.93,0,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+34.82,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Royal Blue,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+33.41,0,Men,Linen,Shirt,Short Sleeve,5XL,Standard,,Solid,Button-Down,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+36.22,1,Men,unknown,Shirt,unknown,3XL,Standard,,Solid,,Wine Red,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Vintage,All-Season
+33.75,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,Henley,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+43.15,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Black,White,True,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.65,0,Men,unknown,Polo,unknown,L,Standard,,Solid,,unknown,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+42.0,0,unknown,unknown,Shirt,unknown,4XL,Standard,,Embroidered,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,All-Season
+50.31,1,unknown,unknown,Shirt & Shorts Set,unknown,XL,Standard,Soft/Luxurious,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+40.64,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Light Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+61.38,0,Men,unknown,Shirt,unknown,M,Standard,Washed,Solid,,Sky Blue,,False,3.0,4.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+34.56,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+34.8,0,unknown,Cotton,T-Shirt & Shorts Set,unknown,L,Loose,,Solid,,Light Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+63.4,0,unknown,unknown,Polo & Shorts Set,unknown,L,Standard,,Solid,,White,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Minimalist,Summer
+60.06,0,Men,unknown,Shirt,unknown,5XL,Standard,Washed,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+26.06,0,Men,Cotton,T-Shirt,unknown,4XL,Standard,"Stretch, Soft/Luxurious",Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+31.82,1,Men,unknown,Polo,Long Sleeve,L,Standard,,Striped,,Green,,False,3.0,4.0,2.0,4.0,4.0,3.0,4.0,Casual,All-Season
+28.39,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,Collar,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+61.28,0,unknown,unknown,Polo & Shorts Set,unknown,XXXL,Standard,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Minimalist,Summer
+35.71,0,Men,Linen,Shirt,unknown,5XL,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+34.26,0,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Brown,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+35.54,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Dark Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+34.7,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+34.61,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Gray,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+60.43,0,Men,Cotton,Shirt,unknown,5XL,Standard,Washed,Solid,Pocket,Army Green,,False,3.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+51.3,0,unknown,unknown,Shirt & Shorts Set,unknown,XL,Loose,,Solid,,Grey,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+19.2,1,Men,Silk,T-Shirt,V-Neck,L,Standard,Breathable/Thin,Solid,V-Neck,Wine Red,White,True,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+58.2,1,Men,unknown,Shirt,unknown,5XL,Standard,Washed,Solid,,Army Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+61.66,0,Men,unknown,Shirt,unknown,L,Standard,Washed,Solid,,Blue,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+35.79,0,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Royal Blue,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+42.26,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Wine Red,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Vintage,All-Season
+55.37,0,Men,Linen,Shirt,Short Sleeve,M,Standard,,Solid,,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+43.22,0,unknown,unknown,Shirt,unknown,XXL,Standard,,Embroidered,,Coffee,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+57.58,1,Men,unknown,Shirt,unknown,M,Standard,Washed,Solid,,Pink,,False,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Vintage,All-Season
+37.81,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Pink,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+32.94,0,Men,Cotton,Polo,unknown,L,Standard,,Striped,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+33.06,1,Men,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+33.71,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,Henley,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+52.6,0,unknown,Cotton,Shirt & Shorts Set,unknown,XL,Standard,,Solid,Henley,Coffee,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,Summer
+24.53,1,Men,Cotton,T-Shirt,unknown,M,Standard,"Stretch, Soft/Luxurious",Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+50.83,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Black,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+28.43,0,Men,Cotton,T-Shirt,unknown,4XL,Standard,"Washed, Distressed",Solid,,unknown,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+48.06,0,unknown,unknown,unknown,unknown,L,Standard,,Solid,,Army Green,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+38.64,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Pink,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+60.08,0,Men,unknown,Shirt,unknown,XL,Standard,Washed,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+36.06,1,Men,Cotton,Polo,unknown,4XL,Standard,,Striped,,Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+30.44,1,unknown,unknown,Shirt,Long Sleeve,L,Standard,,Solid,,Army Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+18.86,0,Men,unknown,T-Shirt,V-Neck,L,Standard,,Solid,V-Neck,Blue,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+36.99,0,Men,unknown,Shirt,unknown,5XL,Standard,,Solid,Collar,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+56.16,1,unknown,unknown,Shirt & Shorts Set,unknown,XXL,Loose,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+54.26,1,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,,White,,False,4.0,5.0,1.0,3.0,3.0,2.0,3.0,Casual,Summer
+43.61,0,unknown,unknown,Shirt,unknown,XL,Standard,,Embroidered,,Black,,False,4.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+20.67,0,Men,Silk,T-Shirt,V-Neck,L,Standard,Breathable/Thin,Solid,V-Neck,Light Blue,Black,True,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+31.08,1,Men,unknown,Polo,unknown,5XL,Standard,,Solid,,Khaki,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+44.37,0,unknown,unknown,Polo & Shorts Set,unknown,L,Standard,Stretch,Solid,,Green,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+60.5,0,unknown,unknown,Polo & Shorts Set,unknown,L,Standard,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Minimalist,Summer
+35.79,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+54.53,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,Henley,Blue,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,Summer
+40.13,1,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Yellow,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Vintage,Summer
+40.51,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Vintage,Summer
+50.04,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Beige,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+34.7,0,Men,Cotton,Shirt,Long Sleeve,M,Standard,,Solid,,Light Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+34.64,1,Men,Linen,Shirt,Long Sleeve,5XL,Standard,,Solid,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+33.1,0,unknown,unknown,Shirt,unknown,M,Standard,,Solid,,Brown,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+46.56,0,unknown,Cotton,Shirt & Shorts Set,unknown,M,Standard,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+20.48,0,Men,unknown,T-Shirt,V-Neck,L,Standard,,Solid,V-Neck,unknown,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+39.87,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,Summer
+51.41,0,unknown,unknown,Shirt & Shorts Set,unknown,M,Loose,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+30.82,1,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+54.7,0,unknown,Cotton,Shirt & Shorts Set,unknown,L,Standard,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,All-Season
+35.23,0,Men,unknown,Shirt,unknown,L,Standard,,Solid,,Black,,False,4.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+36.12,1,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Beige,,False,4.0,5.0,1.0,3.0,3.0,2.0,3.0,Casual,All-Season
+43.26,1,unknown,unknown,Shirt,unknown,L,Standard,,Geometric,,Light Khaki,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+53.45,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,,Solid,,Clear Blue,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+32.3,1,Men,Cotton,Polo,unknown,M,Standard,,Striped,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+58.39,0,unknown,unknown,Polo & Shorts Set,unknown,M,Standard,,Solid,,White,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Minimalist,Summer
+53.76,1,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Blue,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Casual,All-Season
+25.88,0,Men,Cotton,T-Shirt,unknown,M,Standard,"Stretch, Soft/Luxurious",Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.36,0,Men,Cotton,Shirt,Short Sleeve,L,Standard,,Solid,,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+29.67,1,Men,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+26.98,0,Men,Cotton,T-Shirt,unknown,4XL,Standard,"Washed, Distressed",Solid,,Beige,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+37.8,0,Men,Linen,Shirt,unknown,L,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+35.95,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Purple,,False,3.0,4.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+24.66,0,Men,Cotton,T-Shirt,unknown,5XL,Standard,"Stretch, Soft/Luxurious",Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.18,1,Men,Cotton,T-Shirt,unknown,L,Standard,"Washed, Distressed",Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+61.67,0,Men,Corduroy,Shirt,Short Sleeve,L,Standard,,Solid,Pocket,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+29.88,1,Men,unknown,T-Shirt,unknown,L,Standard,,Geometric,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+30.65,1,unknown,Linen,Shirt,unknown,M,Standard,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+28.54,0,Men,Linen,Shirt,Long Sleeve,M,Standard,,Solid,Henley,Light Grey,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+32.73,1,Men,unknown,Polo,unknown,L,Standard,,Solid,,Blue,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+30.22,1,Men,unknown,Shirt,unknown,L,Standard,,Striped,Collar,Grey,,False,4.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+43.98,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,Textured,Solid,,Dark Green,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Casual,All-Season
+35.08,0,Men,Linen,Shirt,Short Sleeve,5XL,Standard,,Solid,Button-Down,Purple,,False,3.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+52.48,0,unknown,unknown,Shirt & Shorts Set,unknown,M,Loose,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+37.4,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Light Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+30.74,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Navy Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+36.68,0,Men,Linen,Shirt,unknown,L,Standard,,Solid,,Orange,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+50.78,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Khaki,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+64.37,0,Men,unknown,Shirt,unknown,M,Standard,,Solid,,Khaki,,False,3.0,4.0,2.0,3.0,4.0,4.0,4.0,Vintage,All-Season
+24.68,0,Men,Cotton,T-Shirt,unknown,L,Standard,"Stretch, Soft/Luxurious",Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+44.15,1,unknown,unknown,Shirt & Shorts Set,unknown,S,Standard,Textured,Solid,,Red,,False,2.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+36.29,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Apricot,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,All-Season
+71.38,1,Men,Cotton,Shirt,unknown,L,Standard,,Solid,,Army Green,,False,4.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+32.58,0,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Purple,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+33.63,1,Men,Linen,Shirt,Short Sleeve,M,Standard,,Solid,Button-Down,unknown,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+33.7,0,Men,Linen,Shirt,Short Sleeve,5XL,Standard,,Solid,Button-Down,Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+19.88,1,Men,unknown,T-Shirt,V-Neck,L,Standard,,Solid,V-Neck,Gray,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+30.41,0,unknown,Cotton,Shirt,unknown,M,Standard,,Striped,,Blue,,False,3.0,4.0,2.0,4.0,3.0,2.0,4.0,Casual,All-Season
+34.1,0,unknown,unknown,Shirt,unknown,M,Muscle,,Solid,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+42.2,0,unknown,unknown,Shirt & Shorts Set,unknown,L,Standard,Textured,Solid,,Red,,False,2.0,2.0,2.0,3.0,3.0,3.0,3.0,Casual,All-Season
+34.4,0,unknown,Cotton,T-Shirt & Shorts Set,unknown,XL,Loose,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+25.01,0,Men,Cotton,T-Shirt,unknown,XL,Standard,"Stretch, Soft/Luxurious",Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+37.33,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Purple,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Vintage,All-Season
+52.84,1,unknown,unknown,Shirt & Shorts Set,unknown,L,Loose,,Solid,,Grey,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+20.6,0,Men,unknown,T-Shirt,V-Neck,L,Standard,,Solid,V-Neck,Red,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+30.24,1,Men,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+45.48,0,unknown,unknown,Shirt,unknown,XL,Standard,,Geometric,,Light Khaki,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+68.75,0,unknown,unknown,Shirt,unknown,M,Muscle,,Solid,,Grey,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+20.07,0,Men,Cotton,T-Shirt,unknown,L,Standard,,Solid,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+41.43,0,unknown,Cotton,Shirt,unknown,L,Standard,,Floral/Graphic,,Black,,False,3.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+36.15,0,unknown,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,Henley,Blue,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+36.65,0,Men,unknown,Shirt,unknown,L,Standard,,Solid,Collar,Light Blue,,False,3.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+38.01,0,Men,Linen,Shirt,unknown,L,Standard,,Solid,,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+28.62,1,Men,Cotton,T-Shirt,unknown,4XL,Standard,"Washed, Distressed",Solid,,Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+41.74,1,unknown,unknown,Shirt,unknown,XXL,Standard,,Embroidered,,Black,,False,4.0,3.0,2.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+33.0,1,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,Button-Down,unknown,,False,3.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+30.17,1,Men,unknown,Shirt,unknown,L,Standard,,Striped,Collar,Red,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+34.99,1,unknown,unknown,Polo,unknown,M,Standard,Textured,Solid,,Pink,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+29.82,0,Men,unknown,Shirt,Short Sleeve,5XL,Standard,,Solid,Pocket,Khaki,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+55.14,0,unknown,Cotton,Shirt & Shorts Set,unknown,XL,Standard,,Solid,,White,,False,3.0,3.0,2.0,4.0,4.0,3.0,4.0,Casual,All-Season
+32.61,0,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Red,,False,2.0,3.0,1.0,3.0,4.0,3.0,3.0,Casual,All-Season
+35.15,1,Men,unknown,Shirt,unknown,M,Standard,,Solid,,Wine Red,,False,2.0,3.0,2.0,3.0,4.0,4.0,3.0,Vintage,All-Season
+31.85,0,unknown,unknown,Shirt,unknown,XXXL,Standard,,Solid,Henley,Navy Blue,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+57.41,1,Men,unknown,Shirt,unknown,XL,Standard,Washed,Solid,,Blue,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Vintage,All-Season
+27.33,0,unknown,unknown,Shirt,unknown,L,Slim,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+39.89,0,unknown,Cotton,Shirt,unknown,L,Standard,,Solid,,Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+27.5,1,unknown,Cotton,Shirt,unknown,M,Standard,,Striped,,Red,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+34.18,1,unknown,unknown,Shirt,unknown,L,Muscle,,Solid,,Navy Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+34.96,0,Men,Linen,Shirt,Long Sleeve,L,Standard,,Solid,,Purple,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,Summer
+43.84,0,unknown,unknown,Shirt,unknown,L,Standard,Soft/Luxurious,Solid,,Green,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+29.46,0,unknown,Cotton,Shirt,unknown,M,Standard,Soft/Luxurious,Solid,,Green,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+42.15,1,unknown,unknown,Shirt & Shorts Set,unknown,XXXL,Standard,Textured,Solid,,Pink,,False,3.0,3.0,2.0,4.0,4.0,4.0,4.0,Casual,All-Season
+35.66,1,unknown,Linen,Shirt,unknown,L,Standard,,Solid,,Green,,False,3.0,4.0,1.0,4.0,4.0,2.0,4.0,Casual,Summer
+28.78,0,unknown,unknown,Shirt,unknown,L,Standard,,Solid,,Brown,,False,3.0,3.0,1.0,3.0,4.0,3.0,4.0,Vintage,All-Season
+35.56,0,unknown,Linen,Shirt,unknown,L,Standard,,Solid,,Light Blue,,False,3.0,4.0,1.0,4.0,4.0,2.0,4.0,Casual,Summer
+32.33,1,Men,Linen,Shirt,Short Sleeve,L,Standard,,Solid,Button-Down,Blue,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,Summer
+29.09,1,Men,unknown,Shirt,Short Sleeve,4XL,Standard,,Solid,Pocket,Army Green,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+40.34,0,unknown,unknown,Shirt,unknown,L,Standard,,Embroidered,,Khaki,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Vintage,All-Season
+36.19,1,Men,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,,Blue,,False,3.0,4.0,1.0,3.0,4.0,3.0,4.0,Casual,All-Season
+46.77,0,unknown,Linen,Shirt,Long Sleeve,L,Standard,,Solid,"Pocket, Henley",Black,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+45.52,0,unknown,Cotton,Shirt,Long Sleeve,L,Standard,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+19.0,0,Men,Cotton,T-Shirt,unknown,L,Standard,,Solid,,Blue,,False,3.0,3.0,1.0,4.0,4.0,3.0,4.0,Casual,All-Season
+25.62,0,Men,Cotton,T-Shirt,unknown,L,Standard,"Stretch, Soft/Luxurious",Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+34.76,0,Men,Linen,Shirt,Long Sleeve,5XL,Standard,,Solid,,White,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+47.61,0,unknown,Corduroy,Shirt & Shorts Set,unknown,L,Standard,,Solid,,Pink,,False,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,Winter
+20.79,1,Men,Silk,T-Shirt,V-Neck,L,Standard,Breathable/Thin,Solid,V-Neck,Black,Blue,True,4.0,3.0,1.0,4.0,3.0,2.0,4.0,Casual,All-Season
+41.97,0,unknown,Linen,Shirt & Shorts Set,Short Sleeve,L,Standard,,Solid,,Light Khaki,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Casual,Summer
+36.0,0,unknown,Cotton,Shirt,unknown,M,Standard,,Solid,,Purple,,False,4.0,4.0,1.0,4.0,3.0,2.0,4.0,Vintage,All-Season
+56.58,0,unknown,Cotton,Shirt & Shorts Set,unknown,XXXL,Standard,,Solid,,White,,False,,,,,,,,Casual,All-Season

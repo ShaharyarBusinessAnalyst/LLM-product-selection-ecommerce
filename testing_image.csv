@@ -1,0 +1,6 @@
+product_id,style_category,formality_level,color_brightness,pattern_complexity,seasonality,perceived_quality,trend_alignment,target_age_group,gender_presentation,visual_uniqueness,estimated_purchase_appeal
+image_5,casual_co-ord_set,2,4,4,spring_summer,3,3,young_adult,masculine,4,3
+image_2,smart_casual_polo,3,3,2,spring_summer,4,4,young_adult,masculine,2,4
+image_4,smart_casual_shirt,3,3,2,spring_summer,4,3,young_adult,masculine,2,4
+image_1,classic_button_down_shirt,4,2,1,all_season,4,3,young_adult,masculine,1,4
+image_3,casual_resort_shirt,2,4,4,spring_summer,3,4,young_adult,masculine,4,4
