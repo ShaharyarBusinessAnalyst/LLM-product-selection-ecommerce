@@ -1,8 +1,7 @@
-# 🛍️ AI-Driven Product Selection for E-Commerce Advertising ROI
+# AI-Driven Product Selection for E-Commerce Advertising ROI
 
 **MGMT 687 Final Project | Purdue University**
 
-*Shaharyar Amjad, Yash Avula, Daniel Kang, Iscel Manalo*
 
 ---
 
